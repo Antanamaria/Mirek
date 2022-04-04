@@ -6,4 +6,10 @@
    <mereni id="002">
     <teplota>6.9</teplota>
   </mereni>
+  <mereni id="003">
+    <teplota>4.9</teplota>
+  </mereni>
+   <mereni id="004">
+    <teplota>6.7</teplota>
+  </mereni>
 </zaznamy>
